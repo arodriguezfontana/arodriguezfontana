@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I´m Abril Rodríguez 👋🏼 </h1>
 
 Welcome to my personal GitHub profile — a space where I share personal, collaborative, and university projects. <br/>
-I've worked on both backend and frontend projects using different technologies. I'm passionate about continuous learning and always looking for new projects to work on.
+I've worked on both backend and frontend projects using different technologies and languages. I'm passionate about continuous learning and always looking for new projects to work on.
 
 <h3>💌 Conect with me:</h3>
 <a href="https://www.linkedin.com/in/rodriguezfontana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" /></a> 
