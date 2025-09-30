@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I´m Abril Rodríguez 👋🏼 </h1>
 
-Welcome to my personal GitHub profile — a space where I share personal, collaborative, and academic projects. <br/>
+Welcome to my personal GitHub profile, a space where I share personal and collaborative projects. <br/>
 I've worked on both backend and frontend projects using different technologies and languages. I'm passionate about continuous learning and always looking for new projects to work on.
 
 <h3>💌 Conect with me:</h3>
