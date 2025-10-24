@@ -9,7 +9,7 @@ I've worked on both **Backend** and **Frontend** projects, both **independently*
 - 🎓 Studying Computer Sience at UNQ
 - 💌 Conect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana)
 
-<h3>💻 Technologies I work with:</h3>
+💻 **Technologies I work with:**
 
 ***Backend***
 - Java (Spring Boot)
