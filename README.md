@@ -31,3 +31,7 @@ I've worked on both **Backend** and **Frontend** projects, both **independently*
 - Neo4j
 - Elasticsearch
 
+***Testing***
+- JUnit
+- Mockito
+- Jest
