@@ -16,6 +16,10 @@ I've worked on both **Backend** and **Frontend** projects, both **independently*
 - Node.js (Express.js)
 - Python
 - Typescript & Javascript
+- PostgreSQL
+- MongoDB
+- Neo4j
+- Elasticsearch
 
 ***Frontend***
 - React.js
@@ -25,13 +29,8 @@ I've worked on both **Backend** and **Frontend** projects, both **independently*
 - HTML
 - CSS (Tailwind CSS, Bootstrap)
 
-***Persistence***
-- PostgreSQL
-- MongoDB
-- Neo4j
-- Elasticsearch
-
 ***Testing***
 - JUnit
 - Mockito
 - Jest
+- Supertest
