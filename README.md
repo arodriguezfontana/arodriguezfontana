@@ -1,36 +1,17 @@
 <h1 align="center"> Hi, I´m Abril Rodríguez 👋🏼 </h1>
 
-### FullStack Software Developer Jr.
+### Software Developer
 
-I've worked on both **Backend** and **Frontend** projects, both **independently** and **collaboratively**. I'm passionate about continuous learning and always looking for new projects to work on.
+I've worked on both **Backend** and **Frontend** projects. Passionate about continuous learning and currently exploring **Data Science**.
 
 🔎 **About me:**
-- 📍 Based in Buenos Aires, Argentina
-- 🎓 Studying Computer Sience at UNQ
-- 💌 Conect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana)
+- 📍 Based in Buenos Aires, Argentina.
+- 🎓 Computer Science Student at UNQ.
+- 💌 Connect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana)
+  
+💻 **Tech Stack:**
 
-💻 **Technologies I work with:**
-
-***Backend***
-- Java (Spring Boot)
-- Node.js (Express.js)
-- Python
-- Typescript & Javascript
-- PostgreSQL
-- MongoDB
-- Neo4j
-- Elasticsearch
-
-***Frontend***
-- React.js
-- Next.js
-- React Native
-- Typescript & Javascript
-- HTML
-- CSS (Tailwind CSS, Bootstrap)
-
-***Testing***
-- JUnit
-- Mockito
-- Jest
-- Supertest
+- ***Backend:*** Java (Spring Boot) • Node.js (Express.js) • Python
+- ***Persistence:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
+- ***Frontend:*** React.js • Next.js • React Native • Typescript • Javascript • HTML • CSS • Tailwind CSS • Bootstrap
+- ***Testing:*** JUnit • Jest • Pytest
