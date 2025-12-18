@@ -1,13 +1,13 @@
-<h1 align="center"> Hi, I´m Abril Rodríguez 👋🏼 </h1>
+<h1 align="center"> Hi, I´m Abril 👋🏼 </h1>
 
 ### Software Developer
 
-I've worked on both **Backend** and **Frontend** projects. Passionate about continuous learning and currently exploring **Data Science**.
+With a **Full Stack** specialization, currently exploring the world of **Data Science**.
 
 🔎 **About me:**
 - 📍 Based in Buenos Aires, Argentina.
 - 🎓 Computer Science Student at UNQ.
-- 💌 Connect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana)
+- 💌 Connect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana).
   
 💻 **Tech Stack:**
 
