@@ -8,10 +8,11 @@ With a **Full Stack** specialization, currently exploring the world of **Data Sc
 - 📍 Based in Buenos Aires, Argentina.
 - 🎓 Computer Science Student at UNQ.
 - 💌 Connect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana).
+- 👉🏻 Check my [portfolio](https://arodriguezfontana.github.io/portfolio/).
   
 💻 **Tech Stack:**
 
 - ***Backend:*** Java (Spring Boot) • Node.js (Express.js) • Python
-- ***Persistence:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
-- ***Frontend:*** React.js • Next.js • React Native • Typescript • Javascript • HTML • CSS • Tailwind CSS • Bootstrap
+- ***Data bases:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
+- ***Frontend:*** React.js • Next.js • React Native • Typescript • Javascript
 - ***Testing:*** JUnit • Jest • Pytest
