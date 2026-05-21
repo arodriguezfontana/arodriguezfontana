@@ -15,4 +15,3 @@ With a **Full Stack** specialization, currently exploring the world of **Data Sc
 - ***Backend:*** Java (Spring Boot) • Node.js (Express.js) • Python
 - ***Data bases:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
 - ***Frontend:*** React.js • Next.js • React Native • Typescript • Javascript
-- ***Testing:*** JUnit • Jest • Pytest
