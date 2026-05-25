@@ -13,5 +13,5 @@ With a **Full Stack** specialization, currently exploring the world of **Data Sc
 💻 **Tech Stack:**
 
 - ***Backend:*** Java (Spring Boot) • Node.js (Express.js) • Python (FastAPI)
-- ***Data bases:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
+- ***Persistence:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
 - ***Frontend:*** React.js • Next.js • React Native • Typescript • Javascript • Tailwind CSS 
