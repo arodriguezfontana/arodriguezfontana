@@ -1,17 +1,16 @@
-<h1 align="center"> Hi, I´m Abril 👋🏼 </h1>
+<h1 align="center"> Hola! Soy Abril 👋🏻 </h1>
 
 ### Software Developer
 
-With a **Full Stack** specialization, currently exploring the world of **Data Science**.
+Especializada en el desarollo **Full Stack** y actualmente explorando el mundo de la **Ciencia de Datos**.
 
-🔎 **About me:**
-- 📍 Based in Buenos Aires, Argentina.
-- 🎓 Computer Science Student at UNQ.
-- 💌 Connect with me at [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/rodriguezfontana).
-- 👉🏻 Check my [portfolio](https://arodriguezfontana.github.io/portfolio/).
+🔎 **Sobre mí:**
+- 📍 Buenos Aires, Argentina.
+- 🎓 Estudiante de la Licenciatura en Informática en la UNQ.
+- 💌 Conectemos en [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/rodriguezfontana).
+- 👉🏻 Mira mi [porfolio](https://arodriguezfontana.github.io/portfolio/).
   
 💻 **Tech Stack:**
-
 - ***Backend:*** Java (Spring Boot) • Node.js (Express.js) • Python (FastAPI)
-- ***Persistence:*** PostgreSQL • MongoDB • Neo4j • Elasticsearch
-- ***Frontend:*** React.js • Next.js • React Native • Typescript • Javascript • Tailwind CSS 
+- ***Persistencia:*** PostgreSQL • MySQL • MongoDB • Neo4j • Elasticsearch
+- ***Frontend:*** React.js • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS
