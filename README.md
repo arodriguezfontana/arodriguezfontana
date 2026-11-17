@@ -6,11 +6,16 @@ Especializada en el desarollo **Full Stack** y actualmente explorando el mundo d
 
 🔎 **Sobre mí:**
 - 📍 Buenos Aires, Argentina.
-- 🎓 Estudiante de la Licenciatura en Informática en la UNQ.
+- 🎓 Técnica en Programación Informatica y proxima Licenciada en Informática en la UNQ.
 - 💌 Conectemos en [arodriguezfontana@gmail.com](mailto:arodriguezfontana@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/rodriguezfontana).
-- 👉🏻 Mira mi [porfolio](https://arodriguezfontana.github.io/portfolio/).
+<!-- - 👉🏻 Mira mi [porfolio](https://arodriguezfontana.github.io/portfolio/). -->
   
 💻 **Tech Stack:**
-- ***Backend:*** Java (Spring Boot) • Node.js (Express.js) • Python (FastAPI)
-- ***Persistencia:*** PostgreSQL • MySQL • MongoDB • Neo4j • Elasticsearch
-- ***Frontend:*** React.js • Next.js • React Native • TypeScript • JavaScript • Tailwind CSS
+- ***Backend:*** Python (FastAPI) • Java (Spring Boot) • Node (Express) • Nest
+- ***Frontend:*** React • Next • TypeScript • JavaScript • Tailwind CSS • Vite • HTML5 • CSS3 • ReactNative
+- ***Persistencia:*** PostgreSQL • MongoDB • Elasticsearch • Neo4j
+- ***Datos:*** SQL • Power BI • Google Sheets • Looker • Power BI • Python (Numpy, Pandas, Matplotlib)
+- ***Herramientas:*** Docker • Git • CI/CD • Testing (Pytest, JUnit, Jest) • Scrum • LLMs • Claude Code • Antigravity • Prompt Engineering • SDD
+
+
+
