@@ -15,7 +15,7 @@ Especializada en el desarollo **Full Stack** y actualmente explorando el mundo d
 - ***Frontend:*** React • Next • TypeScript • JavaScript • Tailwind CSS • Vite • HTML5 • CSS3 • ReactNative
 - ***Persistencia:*** PostgreSQL • MongoDB • Elasticsearch • Neo4j
 - ***Datos:*** SQL • Power BI • Google Sheets • Looker • Power BI • Python (Numpy, Pandas, Matplotlib)
-- ***Herramientas:*** Docker • Git • CI/CD • Testing (Pytest, JUnit, Jest) • Scrum • LLMs • Claude Code • Antigravity • Prompt Engineering • SDD • Tool Calling
+- ***Herramientas:*** Docker • Git • CI/CD • Testing (Pytest, JUnit, Jest) • Scrum • LLMs • Claude Code • Antigravity • Prompt Engineering
 
 
 
